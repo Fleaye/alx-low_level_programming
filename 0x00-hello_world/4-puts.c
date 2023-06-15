@@ -1,4 +1,4 @@
-#include <std10.h>
+#include <stdi0.h>
 /**
  * main - A programing that print a line puts function
  * Return: 0 (success)
